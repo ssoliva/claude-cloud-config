@@ -1,7 +1,7 @@
 ---
 name: flow
 description: Flujo completo de construcción y shipeo de una feature — encuadre, plan criticado por otro modelo, implementación, validación, revisión del árbol sucio y composición de commits antes de abrir una única PR. Usar cuando el usuario invoque /flow.
-disable-model-invocation: true
+disable-model-invocation: false
 allowed-tools:
   - Bash
   - Read
